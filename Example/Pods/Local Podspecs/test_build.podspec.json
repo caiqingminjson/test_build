@@ -1,0 +1,22 @@
+{
+  "name": "test_build",
+  "version": "0.1.0",
+  "summary": "A short description of test_build.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caiqingmin/test_build",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caiqingmin": "caiqingmin@bigo.sg"
+  },
+  "source": {
+    "git": "https://github.com/caiqingmin/test_build.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "test_build/Classes/**/*"
+}
